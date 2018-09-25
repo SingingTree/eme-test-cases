@@ -1,0 +1,16 @@
+file frame01.bmp
+duration 1
+file frame02.bmp
+duration 1
+file frame03.bmp
+duration 1
+file frame02.bmp
+duration 1
+file frame01.bmp
+duration 1
+file frame02.bmp
+duration 1
+file frame03.bmp
+duration 1
+file frame02.bmp
+duration 1
