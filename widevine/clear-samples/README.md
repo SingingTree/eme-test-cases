@@ -7,7 +7,7 @@ This can trip up browsers due to how they flag encrypted samples.
 Created from black-red mp4 via the following:
 
 ```
-ffmpeg -f concat -i input.txt -framerate 60 black-red.mp4
+ffmpeg -f concat -i input.txt -framerate 60 -pix_fmt yuv420p black-red.mp4
 ```
 then
 ```

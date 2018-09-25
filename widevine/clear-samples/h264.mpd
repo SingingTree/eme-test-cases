@@ -7,7 +7,7 @@
       <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
         <cenc:pssh>AAAAN3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABciD3Rlc3QgY29udGVudCBpZEjj3JWbBg==</cenc:pssh>
       </ContentProtection>
-      <Representation id="0" bandwidth="9992" codecs="avc1.f4000a" mimeType="video/mp4" sar="1:1">
+      <Representation id="0" bandwidth="9944" codecs="avc1.64000a" mimeType="video/mp4" sar="1:1">
         <BaseURL>clear-samples-widevine.mp4</BaseURL>
         <SegmentBase indexRange="1130-1185" timescale="12800">
           <Initialization range="0-1129"/>
